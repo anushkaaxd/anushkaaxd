@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,50:a6c1ee,100:fad0c4&height=220&section=header&text=Anushka&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h1 align="center">🌸 hey, i'm anushka 🌸</h1>
+<h1 align="center">🌸 Anushka 🌸</h1>
 <h3 align="center">AI Developer • Creative Builder • Soft but Sharp 💅</h3>
 
 <p align="center">
@@ -20,14 +20,19 @@
 ## 💖 about me
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/583231?v=4" width="120" style="border-radius:50%"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/4140/4140048.png" width="140"/>
 </p>
 
 <p align="center">
-  💻 BTech CSE <br>
-  🧠 AI + Full Stack Developer <br>
-  🎯 building meaningful digital experiences <br>
-  🎀 obsessed with clean UI + smart logic
+  hey! i'm anushka 👋 <br><br>
+
+  💻 a BTech CSE student who loves turning ideas into real things <br>
+  🧠 deeply interested in AI, full-stack development, and building impactful systems <br>
+  🎯 i don't just make projects — i create experiences that actually matter <br>
+  🎀 i care about clean UI, smooth interactions, and meaningful design <br>
+  🌙 most ideas hit at night, and that's when the real work starts <br><br>
+
+  i'm constantly learning, building, improving — and honestly enjoying the process ✨
 </p>
 
 <p align="center">
