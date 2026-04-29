@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+I'm+Anushka+%F0%9F%91%8B;AI+Developer;Building+Cool+Stuff+%F0%9F%94%A5" />
+</p>
 # Hi, I'm Anushka 👋
 
 💻 BTech CSE Student
@@ -6,10 +9,17 @@
 
 ---
 
+
+
 ## 🧠 Featured Project
 
-* 🧠 MindInsight — AI-powered mental health analysis platform
+### 🚀 MindInsight
+AI-powered mental health analysis platform with interactive UI  
 
+🔹 Built using Next.js + Flask + ML  
+🔹 Provides insights on stress, anxiety, depression  
+
+👉 [View Project](https://github.com/anushkaaxd/MindInsight)
 ---
 
 ## 🛠 Tech Stack
@@ -27,6 +37,7 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=anushkaaxd\&show_icons=true\&theme=tokyonight)
 
 ---
+![Snake animation](https://github.com/anushkaaxd/anushkaaxd/blob/output/github-contribution-grid-snake.svg)
 
 ## 🔥 Streak Stats
 
