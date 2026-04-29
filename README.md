@@ -37,8 +37,7 @@ AI-powered mental health analysis platform with interactive UI
 ![Stats](https://github-readme-stats.vercel.app/api?username=anushkaaxd\&show_icons=true\&theme=tokyonight)
 
 ---
-![Snake animation](https://github.com/anushkaaxd/anushkaaxd/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://raw.githubusercontent.com/anushkaaxd/anushkaaxd/output/github-contribution-grid-snake.svg)
 ## 🔥 Streak Stats
 
 ![Streak](https://streak-stats.demolab.com?user=anushkaaxd\&theme=tokyonight)
