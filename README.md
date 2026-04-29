@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,100:a6c1ee&height=200&section=header&text=Anushka&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,100:a6c1ee&height=200&section=header&text=Anushka&fontSize=42&fontColor=ffffff"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anushkaaxd/anushkaaxd/main/avatar.png" width="140" style="border-radius:50%;"/>
+  <img src="https://raw.githubusercontent.com/anushkaaxd/anushkaaxd/main/avatar.png.jpeg" width="140"/>
 </p>
 
 <h2 align="center">✨ hey, i'm Anushka ✨</h2>
@@ -35,7 +35,7 @@
 ## ✨ tech universe
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
 </p>
 
 ---
@@ -63,4 +63,10 @@
   <a href="https://www.linkedin.com/in/anushka-dhawan-a73870332">
     <img src="https://img.shields.io/badge/LinkedIn-ff85c1?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+</p>
+
+---
+
+<p align="center">
+  🌸 made with vibe + ambition 🌸
 </p>
