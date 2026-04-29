@@ -2,11 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,50:a6c1ee,100:fad0c4&height=220&section=header&text=Anushka&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h1 align="center">🌸 hey i'm anushka 🌸</h1>
-<h3 align="center">AI Developer • creative builder • soft but powerful 💅</h3>
+<h1 align="center">🌸 hey, i'm anushka 🌸</h1>
+<h3 align="center">AI Developer • Creative Builder • Soft but Sharp 💅</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=ff9ec4&size=24&center=true&vCenter=true&width=600&lines=building+beautiful+things;logic+but+make+it+aesthetic;soft+girl+hard+core+coder;creating+impact+✨"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=ff9ec4&size=24&center=true&vCenter=true&width=600&lines=design+meets+logic;building+beautiful+systems;soft+energy+hard+skills;creating+impact+✨"/>
 </p>
 
 ---
@@ -19,10 +19,16 @@
 
 ## 💖 about me
 
-- 💻 BTech CSE  
-- 🧠 AI + Full Stack  
-- 🎯 building things that actually matter  
-- 🎀 obsessed with clean UI + good logic  
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/583231?v=4" width="120" style="border-radius:50%"/>
+</p>
+
+<p align="center">
+  💻 BTech CSE <br>
+  🧠 AI + Full Stack Developer <br>
+  🎯 building meaningful digital experiences <br>
+  🎀 obsessed with clean UI + smart logic
+</p>
 
 <p align="center">
   <i>pretty code • powerful mind • unstoppable energy ✨</i>
@@ -30,19 +36,11 @@
 
 ---
 
-## 🐾 girly energy zone
+## 🐾 soft energy
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="200"/>
-</p>
-
----
-
-## 🎮 soft gamer vibe (minecraft energy)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="350"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180"/>
+  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="180"/>
 </p>
 
 ---
@@ -50,7 +48,7 @@
 ## 🎧 vibe zone
 
 <p align="center">
-  coding • dreaming • building • glowing
+  coding • thinking • building • glowing
 </p>
 
 <p align="center">
@@ -62,7 +60,7 @@
 ## 💅 aesthetic work mode
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Y4dGF4b3l5ZWRzZGRvMGY3Z2tqM3V1aDNqY2Fyb3pxZ3l1OXdwdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="420"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420"/>
 </p>
 
 ---
@@ -71,14 +69,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,react,nextjs,nodejs,java,git,github,vscode,tensorflow"/>
-</p>
-
----
-
-## 🌸 digital aura
-
-<p align="center">
-  🧠 thinking • 🎯 focusing • ⚙️ building • 🚀 evolving
 </p>
 
 ---
