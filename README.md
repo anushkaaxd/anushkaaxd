@@ -2,11 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,50:a6c1ee,100:fad0c4&height=220&section=header&text=Anushka&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h1 align="center">✨ hey, i'm anushka ✨</h1>
-<h3 align="center">AI Developer • Soft Tech Energy • Creative Builder</h3>
+<h1 align="center">🌸 hey i'm anushka 🌸</h1>
+<h3 align="center">AI Developer • creative builder • soft but powerful 💅</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=ffb6c1&size=24&center=true&vCenter=true&width=600&lines=building+things+that+feel+beautiful;design+%2B+logic+%3D+magic;soft+girl+but+hard+core+coder+💅;turning+ideas+into+experiences"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=ff9ec4&size=24&center=true&vCenter=true&width=600&lines=building+beautiful+things;logic+but+make+it+aesthetic;soft+girl+hard+core+coder;creating+impact+✨"/>
 </p>
 
 ---
@@ -19,14 +19,30 @@
 
 ## 💖 about me
 
-- 💻 BTech CSE student  
-- 🧠 AI + full stack developer  
-- 🎯 i don’t just build projects, i build experiences  
-- 🌸 aesthetic matters as much as logic  
-- 🌙 late night coder, idea collector  
+- 💻 BTech CSE  
+- 🧠 AI + Full Stack  
+- 🎯 building things that actually matter  
+- 🎀 obsessed with clean UI + good logic  
 
 <p align="center">
-  <i>creating things that feel as good as they work ✨</i>
+  <i>pretty code • powerful mind • unstoppable energy ✨</i>
+</p>
+
+---
+
+## 🐾 girly energy zone
+
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="200"/>
+</p>
+
+---
+
+## 🎮 soft gamer vibe (minecraft energy)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="350"/>
 </p>
 
 ---
@@ -34,7 +50,7 @@
 ## 🎧 vibe zone
 
 <p align="center">
-  coding • dreaming • building • evolving
+  coding • dreaming • building • glowing
 </p>
 
 <p align="center">
@@ -43,16 +59,10 @@
 
 ---
 
-## 💅 work mode
+## 💅 aesthetic work mode
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="420"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Y4dGF4b3l5ZWRzZGRvMGY3Z2tqM3V1aDNqY2Fyb3pxZ3l1OXdwdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="420"/>
 </p>
 
 ---
@@ -60,15 +70,15 @@
 ## ✨ tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nextjs,nodejs,java,git,github,vscode,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,nextjs,nodejs,java,git,github,vscode,tensorflow"/>
 </p>
 
 ---
 
-## 🌊 digital presence
+## 🌸 digital aura
 
 <p align="center">
-  🧠 thinking • ⚙️ building • 🎯 focusing • 🚀 evolving
+  🧠 thinking • 🎯 focusing • ⚙️ building • 🚀 evolving
 </p>
 
 ---
@@ -90,28 +100,22 @@
 
 ---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-7f45f7bb-1c4b-4c6e-bd5f-60b2e3d8c88c.gif" width="500"/>
-</p>
-
----
-
-## 🌐 connect
+## 💌 connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anushka-dhawan-a73870332">
-    <img src="https://img.shields.io/badge/LinkedIn-ffb6c1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-ff9ec4?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anushkaaxd&color=ffb6c1&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=anushkaaxd&color=ff9ec4&style=flat-square"/>
 </p>
 
 ---
 
 <p align="center">
-  <i>soft outside • sharp inside • unstoppable always 💫</i>
+  🌸 soft outside • sharp inside • unstoppable always 🌸
 </p>
