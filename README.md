@@ -1,4 +1,4 @@
-<!-- 🌌 ANIMATED HEADER -->
+<!-- 🌌 HEADER -->
 
 <h1 align="center">✨ Anushka ✨</h1>
 
@@ -6,9 +6,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=AI+Explorer;Creative+Developer;Design+%2B+Logic;Building+Cool+Things;Always+Evolving+🚀" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Explorer-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Creative-Builder-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Code+%2B+Design-00ffff?style=for-the-badge" />
+</p>
+
 ---
 
-<!-- 🌊 WAVE TOP -->
+<!-- 🌊 TOP WAVE -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header"/>
@@ -53,10 +59,18 @@
 
 ---
 
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anushkaaxd&theme=tokyo-night" />
+</p>
+
+---
+
 ## 🐍 Contribution Flow
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anushkaaxd/anushkaaxd/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/anushkaaxd/anushkaaxd/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -87,7 +101,7 @@
 
 ---
 
-<!-- 🌊 WAVE FOOTER -->
+<!-- 🌊 FOOTER -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
