@@ -41,18 +41,12 @@
 ---
 
 ## 📊 stats
+## 📊 stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anushkaaxd&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushkaaxd&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anushkaaxd&show_icons=true&theme=radical&hide_border=true&icon_color=ff69b4&title_color=ff69b4" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushkaaxd&theme=radical&hide_border=true&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" />
 </p>
-
 ---
 
 ## 🐍 contribution snake
