@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anushkaaxd/anushkaaxd/main/avatar.png.jpeg" width="150"/>
+  <img src="https://raw.githubusercontent.com/anushkaaxd/anushkaaxd/main/avatar.png.jpeg" width="150" style="border-radius: 50%;" />
 </p>
 
 <h2 align="center">✨ hey, i'm Anushka ✨</h2>
@@ -27,7 +27,7 @@
 ## 🐾 coding mood
 
 <p align="center">
-  <img src="https://i.imgur.com/2d3K6XG.gif" width="320"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="320"/>
 </p>
 
 ---
@@ -35,7 +35,7 @@
 ## ✨ tech universe
 
 <p align="center">
-  <img src="https://i.imgur.com/8Km9tLL.gif" width="420"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
 </p>
 
 ---
@@ -43,7 +43,7 @@
 ## 📊 stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anushkaaxd&show_icons=true&theme=radical&hide_border=true&icon_color=ff69b4&title_color=ff69b4&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anushkaaxd&show_icons=true&theme=radical&hide_border=true&icon_color=ff69b4&title_color=ff69b4" />
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@
 ## 🐍 contribution snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anushkaaxd/anushkaaxd/output/github-contribution-grid-snake-dark.svg?v=3"/>
+  <img src="https://raw.githubusercontent.com/anushkaaxd/anushkaaxd/output/github-contribution-grid-snake-dark.svg?v=2"/>
 </p>
 
 ---
