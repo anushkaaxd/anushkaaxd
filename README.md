@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anushkaaxd/anushkaaxd/main/avatar.png.jpeg" width="140"/>
+  <img src="https://raw.githubusercontent.com/anushkaaxd/anushkaaxd/main/avatar.png.jpeg" width="150" style="border-radius: 50%;" />
 </p>
 
 <h2 align="center">✨ hey, i'm Anushka ✨</h2>
@@ -42,17 +42,20 @@
 
 ## 📊 stats
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anushkaaxd&show_icons=true&theme=radical&hide_border=true&icon_color=ff69b4&title_color=ff69b4" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushkaaxd&theme=radical&hide_border=true&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anushkaaxd&theme=radical&hide_border=true&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" />
+</p>
+
 ---
 
 ## 🐍 contribution snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anushkaaxd/anushkaaxd/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/anushkaaxd/anushkaaxd/output/github-contribution-grid-snake-dark.svg?v=2"/>
 </p>
 
 ---
